@@ -1,0 +1,15 @@
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial\Ejercicio 1\bin\Debug\net7.0\Ejercicio 1.exe
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial\Ejercicio 1\bin\Debug\net7.0\Ejercicio 1.deps.json
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial\Ejercicio 1\bin\Debug\net7.0\Ejercicio 1.runtimeconfig.json
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial\Ejercicio 1\bin\Debug\net7.0\Ejercicio 1.dll
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial\Ejercicio 1\bin\Debug\net7.0\Ejercicio 1.pdb
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial\Ejercicio 1\obj\Debug\net7.0\Ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial\Ejercicio 1\obj\Debug\net7.0\Ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial\Ejercicio 1\obj\Debug\net7.0\Ejercicio 1.AssemblyInfoInputs.cache
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial\Ejercicio 1\obj\Debug\net7.0\Ejercicio 1.AssemblyInfo.cs
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial\Ejercicio 1\obj\Debug\net7.0\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial\Ejercicio 1\obj\Debug\net7.0\Ejercicio 1.dll
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial\Ejercicio 1\obj\Debug\net7.0\refint\Ejercicio 1.dll
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial\Ejercicio 1\obj\Debug\net7.0\Ejercicio 1.pdb
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial\Ejercicio 1\obj\Debug\net7.0\Ejercicio 1.genruntimeconfig.cache
+C:\Users\Robert\OneDrive\Documentos\3er Semestre Sistemas\Progra I\Parcial\Ejercicio 1\obj\Debug\net7.0\ref\Ejercicio 1.dll
